@@ -1,0 +1,12 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración del editor
+.vscode/
+
+# Logs
+*.log
+
+# Packet Tracer (si decides ignorarlo)
+# *.pkt
